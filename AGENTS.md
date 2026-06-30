@@ -12,8 +12,9 @@ Este repositório registra as tratativas, conversas e desdobramentos da parceria
 
 - Transcrições de conversas WhatsApp
 - Documentos do curso de ATHIS promovido por ela
-- Encaminhamentos e desdobramentos da atuação dos últimos 12+ meses
-- Estruturação da nova frente de trabalho
+- Encaminhamentos e desdobramentos da parceria atual
+
+> **Nota:** Conexões históricas (Xukuru, Prof. Jayme Gonçalves, LaPeCFaS) são contexto de relacionamento prévio, não frentes de trabalho ativas.
 
 ## 📁 Estrutura
 
