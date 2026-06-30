@@ -1,0 +1,18 @@
+# .gitignore — ludmila-athis-df
+*.wav
+*.opus
+*.mp3
+*.mp4
+*.webm
+*.ogg
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+**/WhatsApp Chat - */
+**/_chat*.txt
+.DS_Store
+site/
+__pycache__/
