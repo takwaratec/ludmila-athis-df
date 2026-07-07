@@ -78,13 +78,13 @@ status: Registro Consolidado
 
 **Atividades regulares (Agosto em diante):**
 
-| Atividade | Frequencia | Local |
-|-----------|:----------:|-------|
-| 💻 **Reuniao de articulacao** | 3a feira (noite) - 1x mes | Online |
-| 🏛️ **Workshop** | 6a feira (tarde) - 1x mes | CAU (Asa Norte) |
-| 🌍 **Oficina pratica** | Sabado (manha) - 1x mes | Sol Nascente |
+| Atividade | Datas | Local |
+|-----------|:-----:|-------|
+| 🟢 **Reuniao de articulacao** | Marcadas | Online |
+| 🟢 **Workshop** | Marcadas | CAU (Asa Norte) |
+| 🟠 **Oficina pratica** | Marcadas | Sol Nascente |
 
-> As atividades sao alternadas - nunca duas na mesma semana.
+> As atividades sao alternadas semanalmente - nunca duas na mesma semana.
 
 ---
 
