@@ -72,7 +72,7 @@ status: Registro Consolidado
 | **07/07** | 🗓️ Reuniao de alinhamento (equipe) | Esta reuniao | Interno |
 | **08/07** | ⚙️ Prazo selecao de participantes | Comissao multidisciplinar | Adm |
 | **09/07** | 📢 Divulgacao do resultado | Selecionados por frente | Adm |
-| **17/07 (sexta)** | 🟢🎓 **Abertura com participantes** | CAL (Asa Norte) - CAU - presencial c/ transmissao YouTube | Evento |
+| **17/07 (sexta)** | 🟢🎓 **Abertura com participantes** | CAL (Asa Norte) - presencial c/ transmissao YouTube | Evento |
 | **25/07 (sabado)** | 🟡🌍 **Abertura com a comunidade** | Sol Nascente - visita ao territorio | Comunidade |
 | **28/07 (terca)** | 💻 1a reuniao tematica online | Definicao de temas com facilitadores | Online |
 
@@ -81,7 +81,7 @@ status: Registro Consolidado
 | Atividade | Frequencia | Local |
 |-----------|:----------:|-------|
 | 💻 **Reuniao de articulacao** | 3a feira (noite) - 1x mes | Online |
-| 🏛️ **Workshop** | 6a feira (tarde) - 1x mes | CAL (Asa Norte) - CAU |
+| 🏛️ **Workshop** | 6a feira (tarde) - 1x mes | CAL (Asa Norte) |
 | 🌍 **Oficina pratica** | Sabado (manha) - 1x mes | Sol Nascente |
 
 > As atividades sao alternadas - nunca duas na mesma semana.
