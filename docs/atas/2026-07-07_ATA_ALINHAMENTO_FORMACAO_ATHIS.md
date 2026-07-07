@@ -69,20 +69,20 @@ status: Registro Consolidado
 
 | Data | Atividade | Descricao | Tipo |
 |:----:|-----------|-----------|:----:|
-| **07/07** | 🗓️ Reuniao de alinhamento (equipe) | Esta reuniao | Interno |
+| **07/07** | 🟠 Reuniao de alinhamento (equipe) | Esta reuniao | Interno |
 | **08/07** | ⚙️ Prazo selecao de participantes | Comissao multidisciplinar | Adm |
 | **09/07** | 📢 Divulgacao do resultado | Selecionados por frente | Adm |
 | **17/07 (sexta)** | 🟢🎓 **Abertura com participantes** | CAU (Asa Norte) - presencial c/ transmissao YouTube | Evento |
-| **25/07 (sabado)** | 🟡🌍 **Abertura com a comunidade** | Sol Nascente - visita ao territorio | Comunidade |
-| **28/07 (terca)** | 💻 1a reuniao tematica online | Definicao de temas com facilitadores | Online |
+| **25/07 (sabado)** | 🟩🌍 **Abertura com a comunidade** | Sol Nascente - visita ao territorio | Comunidade |
+| **28/07 (terca)** | 🟠💻 1a reuniao tematica online | Definicao de temas com facilitadores | Online |
 
 **Atividades regulares (Agosto em diante):**
 
 | Atividade | Datas | Local |
 |-----------|:-----:|-------|
-| 🟢 **Reuniao de articulacao** | Marcadas | Online |
-| 🟢 **Workshop** | Marcadas | CAU (Asa Norte) |
-| 🟠 **Oficina pratica** | Marcadas | Sol Nascente |
+| 🟠💻 **Reuniao de articulacao** | Marcadas | Online |
+| 🟢🏛️ **Workshop** | Marcadas | CAU (Asa Norte) |
+| 🟩🌍 **Oficina pratica** | Marcadas | Sol Nascente |
 
 > As atividades sao alternadas semanalmente - nunca duas na mesma semana.
 
