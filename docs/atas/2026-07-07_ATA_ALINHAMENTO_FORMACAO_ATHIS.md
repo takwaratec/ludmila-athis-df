@@ -27,7 +27,7 @@ status: Registro Consolidado
 | **Marcella Garritano** | Licenciatura em Historia (ex-arquitetura) | Colaboradora |
 | **Marilurde** | Assistente Social, CONAB | Colaboradora |
 | **Manuella Coelho** | Arquiteta, Min. das Cidades | Colaboradora |
-| **Ludimila Gomes Faria Oliveira** | Arquiteta, CODAB | Monitora (formanda 2025) |
+| **Ludimila Gomes Faria Oliveira** | Arquiteta, CODHAB | Monitora (formanda 2025) |
 | **Andre (IAB)** | Instituto de Arquitetos do Brasil - DF | Facilitador |
 | **Lucas Tenorio** | Assistente Social, CRESS | Comissao de selecao |
 | **Larissa Cayres** | Comissao ATHIS | Comissao de selecao |
@@ -40,7 +40,7 @@ status: Registro Consolidado
 
 | Tema | Parceiro | Situacao |
 |------|----------|----------|
-| **Melhorias Habitacionais** | CODAB / CRESS | Obras suspensas por decreto do GDF. Foco em diagnostico de patologias e priorizacao de familias |
+| **Melhorias Habitacionais** | CODHAB / CRESS | Obras suspensas por decreto do GDF. Foco em diagnostico de patologias e priorizacao de familias |
 | **Regularizacao Fundiaria** | Defensoria Publica | Demanda via Comissao de Solucoes Fundiarias (TJs) |
 | **Acoes Urbanas Comunitarias** | CAL / Instituto Ecosol (Condominio Genesis) | Continuidade de propostas preliminares de 2025 |
 
