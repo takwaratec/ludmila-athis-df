@@ -1,6 +1,6 @@
 # Ludmila / ATHIS-DF
 
-> Parceria com **Dra. Ludmila de Araújo Correia** — Diretora do CAU-DF
+> Parceria com **Dra. Ludmila de Araújo Correia** (CAU-DF)
 
 ---
 
@@ -8,9 +8,8 @@
 
 | Frente | Status | Última Atualização |
 |--------|--------|:------------------:|
-| **Seminário ATHIS CAU-DF** | ⏳ Em planejamento — reunião 07/07 | 07/07/2026 |
-| **Editais e Projetos** | ⏳ A estrutura | — |
-| **Fichas do Acervo** | ✅ PIBIT MAMONEX + Perfil Ludmila | 07/07/2026 |
+| **Seminario ATHIS CAU-DF** | Em planejamento — reuniao 07/07 | 07/07/2026 |
+| **Editais e Projetos** | A estruturar | — |
 
 ---
 

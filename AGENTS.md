@@ -1,6 +1,6 @@
 # AGENTS.md — Ludmila / ATHIS-DF
 
-> Repositório de acompanhamento da parceria com **Ludmila Correia** — Diretora do CAU DF
+> Repositório de acompanhamento da parceria com **Ludmila Correia** (CAU-DF)
 > **Frente:** Assistência Técnica em Habitação de Interesse Social (ATHIS) — DF
 > **Criado:** 30/06/2026
 
