@@ -65,26 +65,41 @@ status: Registro Consolidado
 
 ---
 
-## 3. Calendario Previsto
+## 3. Calendario
 
-| Data | Atividade | Descricao | Tipo |
-|:----:|-----------|-----------|:----:|
-| **07/07** | 🟠 Reuniao de alinhamento (equipe) | Esta reuniao | Interno |
-| **08/07** | ⚙️ Prazo selecao de participantes | Comissao multidisciplinar | Adm |
-| **09/07** | 📢 Divulgacao do resultado | Selecionados por frente | Adm |
-| **17/07 (sexta)** | 🟢🎓 **Abertura com participantes** | CAU (Asa Norte) - presencial c/ transmissao YouTube | Evento |
-| **25/07 (sabado)** | 🟩🌍 **Abertura com a comunidade** | Sol Nascente - visita ao territorio | Comunidade |
-| **28/07 (terca)** | 🟠💻 1a reuniao tematica online | Definicao de temas com facilitadores | Online |
+### Julho
 
-**Atividades regulares (Agosto em diante):**
+| Data | Atividade | Descricao |
+|:----:|-----------|-----------|
+| **07** 🟠 | Reuniao de alinhamento (equipe) | Esta reuniao |
+| **17** 🟢 | **Abertura com participantes** | CAU (Asa Norte) - presencial |
+| **25** 🟩 | **Abertura com a comunidade** | Sol Nascente - visita ao territorio |
+| **28** 🟠 | 1a reuniao tematica online | Definicao de temas |
 
-| Atividade | Datas | Local |
-|-----------|:-----:|-------|
-| 🟠💻 **Reuniao de articulacao** | Marcadas | Online |
-| 🟢🏛️ **Workshop** | Marcadas | CAU (Asa Norte) |
-| 🟩🌍 **Oficina pratica** | Marcadas | Sol Nascente |
+### Agosto
 
-> As atividades sao alternadas semanalmente - nunca duas na mesma semana.
+| Data | Atividade | Descricao |
+|:----:|-----------|-----------|
+| **14** 🟢 | Workshop | CAU (Asa Norte) |
+| **18** 🟠 | Reuniao de articulacao | Online |
+| **29** 🔵 | Oficina pratica | Sol Nascente |
+
+### Setembro
+
+| Data | Atividade | Descricao |
+|:----:|-----------|-----------|
+| **01** 🟠 | Reuniao de articulacao | Online |
+| **11** 🟢 | Workshop | CAU (Asa Norte) |
+| **20** 🟠 | Reuniao de articulacao | Online |
+| **26** 🔵 | Oficina pratica | Sol Nascente |
+
+### Legenda
+
+| Cor | Atividade |
+|:---:|-----------|
+| 🟢 | Workshop presencial (CAU) |
+| 🔵 | Oficina pratica (Sol Nascente) |
+| 🟠 | Reuniao online / administrativa |
 
 ---
 
