@@ -16,7 +16,6 @@
 ## Documentos Recentes
 
 - [📋 ATA — Reuniao 07/07/2026 (Alinhamento Formacao ATHIS)](atas/2026-07-07_ATA_ALINHAMENTO_FORMACAO_ATHIS.md)
-- [📅 Calendario e Programacao](seminario-cau-df/)
 
 ---
 

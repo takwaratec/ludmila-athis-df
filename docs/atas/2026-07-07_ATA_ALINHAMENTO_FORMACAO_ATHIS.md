@@ -15,22 +15,22 @@ status: Registro Consolidado
 
 ## 1. Participantes e Perfis
 
-| Nome | Atuacao | Papel na Formacao |
-|------|---------|-------------------|
-| **Ludmila Correia** | CAU-DF | Coordenacao geral |
-| **Beatriz Vicentin** | Arquiteta, mestranda UnB, Lab. Periferico | Facilitadora |
-| **Catarina Sombrio** | Arquiteta, professora (Catolica) | Facilitadora |
-| **Fabio Takwara** | Bambu, IA, editais, geodesicas | Facilitador (captacao, IA, bambu) |
-| **Jeff Pedroza** | Arquiteto, Frente Academica Valparaiso | Facilitador |
-| **Bianca Tupikin** | Arquiteta, Movimento Nacional de Moradia | Facilitadora (regularizacao fundiaria) |
-| **Larissa Marreiros** | Arquiteta, mestranda FAUSP, IAB | Comissao de selecao |
-| **Marcella Garritano** | Licenciatura em Historia (ex-arquitetura) | Colaboradora |
-| **Marilurde** | Assistente Social, CONAB | Colaboradora |
-| **Manuella Coelho** | Arquiteta, Min. das Cidades | Colaboradora |
-| **Ludimila Gomes Faria Oliveira** | Arquiteta, CODHAB | Monitora (formanda 2025) |
-| **Andre (IAB)** | Instituto de Arquitetos do Brasil - DF | Facilitador |
-| **Lucas Tenorio** | Assistente Social, CRESS | Comissao de selecao |
-| **Larissa Cayres** | Comissao ATHIS | Comissao de selecao |
+| Nome | Atuacao |
+|------|---------|
+| **Ludmila Correia** | CAU-DF |
+| **Beatriz Vicentin** | Arquiteta, mestranda UnB, Lab. Periferico |
+| **Catarina Sombrio** | Arquiteta, professora (Catolica) |
+| **Fabio Takwara** | Bambu, IA, editais, geodesicas |
+| **Jeff Pedroza** | Arquiteto, Frente Academica Valparaiso |
+| **Bianca Tupikin** | Arquiteta, Movimento Nacional de Moradia |
+| **Larissa Marreiros** | Arquiteta, mestranda FAUSP, IAB |
+| **Marcella Garritano** | Licenciatura em Historia (ex-arquitetura) |
+| **Marilurde** | Assistente Social, CONAB |
+| **Manuella Coelho** | Arquiteta, Min. das Cidades |
+| **Ludimila Gomes Faria Oliveira** | Arquiteta, CODHAB |
+| **Andre (IAB)** | Instituto de Arquitetos do Brasil - DF |
+| **Lucas Tenorio** | Assistente Social, CRESS |
+| **Larissa Cayres** | Comissao ATHIS |
 
 ---
 
@@ -48,9 +48,9 @@ status: Registro Consolidado
 
 | Atividade | Dia | Local | Formato |
 |-----------|:---:|-------|---------|
-| **Reuniao de articulacao** | 3a feira (noite) | Online (Zoom) | Toda ultima terca do mes |
-| **Workshop** | 6a feira (tarde) | CAU (Asa Norte) | Presencial - tematico |
-| **Oficina pratica** | Sabado (manha) | Sol Nascente | Presencial - na comunidade |
+| **Reuniao de articulacao** | 3a feira (noite) | Teams | Online |
+| **Workshop** | 6a feira (tarde) | CAU (Asa Norte) | Presencial |
+| **Oficina pratica** | Sabado (manha) | Sol Nascente | Presencial |
 
 > Atividades alternadas - nunca duas na mesma semana. Cada uma ocorre 1x por mes.
 
