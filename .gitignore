@@ -1,4 +1,5 @@
 # .gitignore — ludmila-athis-df
+TRIAGEM-BRUTA/
 *.wav
 *.opus
 *.mp3
