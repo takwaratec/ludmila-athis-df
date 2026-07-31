@@ -4,7 +4,9 @@ Recebi seu convite para o curso e vi que a formação do grupo do seminário ain
 
 Depois de todas aquelas situações em Minas Gerais — processo, prisão e tudo mais — me mudei para Limeira, em São Paulo. Estou com uma empresa em Holambra; abri inicialmente em Minas, em 2021, e agora estou abrindo novas frentes aqui, com um grupo de pesquisadores da Embrapa, do Instituto Federal e da Unicamp. Estamos trabalhando em um edital da FINEP, com o mesmo escopo de construção civil, ATHIS e materiais sustentáveis.
 
-Também reativei o contato com a UnB, no projeto Mulheres que Tecem a Floresta, com a professora Tânia. Criei ainda um repositório para um projeto no BNDES, que está muito bem estruturado e tem recebido muitos elogios pela organização. Quero compartilhar tudo isso com você e me colocar à disposição para retomarmos nossas ações conjuntas.
+Também reativei o contato com a UnB, no projeto Mulheres que Tecem a Floresta (MQTF), com a professora Tânia. O projeto estava articulado para o BNDES, mas foi suspenso para o próximo ano. Mesmo assim, serve como modelo de produção conjunta entre universidade, pesquisadores e comunidade — é exatamente o formato que estou replicando nas novas frentes. O repositório do MQTF está aqui:
+
+github.com/takwaratec/Mulheres-Tecem-Amazonia
 
 Nesse período, me atualizei bastante: agora, aos 60 anos, atuo como programador em Python e administrador de inteligência artificial. Vejo muitas possibilidades a partir disso, e gostaria que você olhasse para esse conjunto de iniciativas com carinho.
 

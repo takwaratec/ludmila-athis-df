@@ -44,13 +44,19 @@ markdown_extensions:
 plugins:
   - search
 
+exclude_docs: |
+  transcricoes/decupagem-conversa-ludmila-2021-2025.md
+
 nav:
   - "Inicio": index.md
+  - "Histórico e andamento": historico-andamentos-2026.md
   - "Realinhamento": diagnostico-realinhamento-2026.md
-  - "Visita - 4 de agosto": visita-sol-nascente-2026-08-04.md
+  - "Reconhecimento - 8 de agosto": visita-sol-nascente-2026-08-08.md
+  - "Oportunidades": oportunidades.md
+  - "App triagem REURB": app-triagem-regularizacao-athis.md
   - "Zayed - Sol Nascente": zayed-sol-nascente-2027.md
   - "ATA 07/07/2026": atas/2026-07-07_ATA_ALINHAMENTO_FORMACAO_ATHIS.md
   - "Memória":
       - "Conversa de julho de 2026": transcricoes/decupagem-ludmila-julho-2026.md
-      - "Histórico 2021-2025": transcricoes/decupagem-conversa-ludmila-2021-2025.md
+      - "Abertura 17/07/2026": transcricoes/decupagem-abertura-2026-07-17.md
       - "Seminário ATHIS 2024-2026": transcricoes/decupagem-seminario-athis-2024-2026.md

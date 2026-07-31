@@ -34,14 +34,14 @@ de coordenação cotidiana no território.
 | Frente | Resultado esperado | Decisão necessária |
 |---|---|---|
 | Formação ATHIS | colaboração eventual e palestra | data e formato pela coordenação |
-| Visita de 4 de agosto | escuta e diagnóstico preliminar | confirmação territorial |
+| Reconhecimento em 8 de agosto | escuta, imagens autorizadas e diagnóstico preliminar | confirmação territorial e autorização de voo |
 | Demonstração | protótipo seguro e delimitado | local, materiais e responsáveis |
 | Zayed | avaliação de candidato e evidências | anuência e nomeador elegível |
 | Pesquisa e ensaios | prospecção futura | instituição e escopo formal |
 
 ## Sequência
 
-1. confirmar a visita de 4 de agosto;
+1. confirmar o reconhecimento extraordinário de 8 de agosto;
 2. identificar a liderança e o coletivo que receberão Fabio;
 3. realizar escuta sem prometer projeto ou prêmio;
 4. emitir memória validável;
@@ -52,9 +52,10 @@ de coordenação cotidiana no território.
 
 ## Comunicação sugerida a Ludmila
 
-> Lud, estarei em Brasília no dia 4 de agosto e consigo reservar uma janela
-> curta para conhecer o Sol Nascente, desde que seja conveniente para você e
-> para uma liderança local. Minha proposta é fazer apenas uma visita de escuta:
+> Lud, estarei em Brasília a partir do dia 4 de agosto e consigo reservar o
+> sábado, dia 8, para conhecer o Sol Nascente, desde que seja conveniente para você e
+> para uma liderança local. Como essa data não aparece no calendário formal que
+> consultei, seria uma visita extraordinária de escuta:
 > compreender o trabalho do coletivo, levantar documentos e evidências e
 > avaliar com responsabilidade a possibilidade do Zayed. Não pretendo criar
 > nova demanda para você nem prometer instalação ou oficina nessa data. A
