@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Pacote editorial para aprovação da divulgação da Formação ATHIS 2026.">
+  <title>Pacote editorial | Formação ATHIS 2026</title>
+  <style>
+    :root {
+      --paper: #fbfaf6;
+      --paper-warm: #f3efe7;
+      --ink: #29332f;
+      --muted: #68736d;
+      --line: #d9dfd5;
+      --sage: #3e6658;
+      --sage-soft: #e3eee7;
+      --clay: #a85f46;
+      --clay-soft: #f3e2d8;
+      --gold: #c59747;
+      --shadow: 0 10px 30px rgba(42, 54, 47, .08);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font-family: Georgia, 'Times New Roman', serif; line-height: 1.65; }
+    .topbar { background: var(--sage); color: #fff; padding: 12px 24px; font: 600 13px/1.3 system-ui, sans-serif; letter-spacing: .03em; }
+    .topbar-inner, main, footer { max-width: 1120px; margin: auto; }
+    header { background: linear-gradient(135deg, #eef3ec 0%, #f9f4e9 100%); border-bottom: 1px solid var(--line); }
+    .hero { max-width: 1120px; margin: auto; padding: 68px 28px 58px; display: grid; grid-template-columns: 1.25fr .75fr; gap: 54px; align-items: end; }
+    .eyebrow { color: var(--clay); font: 700 12px/1.2 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+    h1, h2, h3 { line-height: 1.16; margin: 0 0 18px; font-weight: 600; }
+    h1 { font-size: clamp(2.4rem, 5vw, 4.8rem); color: #26483d; max-width: 720px; }
+    h2 { color: #2e5649; font-size: clamp(1.7rem, 3vw, 2.5rem); margin-top: 12px; }
+    h3 { font-size: 1.22rem; color: var(--clay); }
+    p { margin: 0 0 16px; }
+    .lead { font-size: 1.25rem; max-width: 690px; color: #46544d; }
+    .hero-note { background: rgba(255,255,255,.7); border-left: 4px solid var(--gold); padding: 22px; box-shadow: var(--shadow); }
+    .hero-note strong { display:block; color:var(--sage); font: 700 12px/1.2 system-ui,sans-serif; letter-spacing:.08em; text-transform:uppercase; margin-bottom:8px; }
+    .actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:24px; }
+    button, .button { border: 1px solid var(--sage); border-radius: 999px; padding: 11px 17px; background: var(--sage); color: white; font: 700 14px system-ui,sans-serif; cursor:pointer; text-decoration:none; }
+    button.secondary, .button.secondary { background: transparent; color: var(--sage); }
+    main { padding: 34px 28px 76px; }
+    .tabs { position: sticky; top: 0; z-index: 5; display:flex; gap:8px; flex-wrap:wrap; padding:12px 0; background: rgba(251,250,246,.94); border-bottom:1px solid var(--line); backdrop-filter: blur(8px); }
+    .tab { background: var(--paper-warm); border-color: var(--line); color: var(--ink); border-radius: 9px; padding: 12px 15px; }
+    .tab[aria-selected="true"] { background: var(--sage); color:#fff; border-color:var(--sage); }
+    .panel { display:none; padding-top:42px; }
+    .panel.active { display:block; }
+    .intro { max-width: 790px; margin-bottom: 32px; }
+    .grid { display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap:18px; }
+    .card { background:#fff; border:1px solid var(--line); border-radius:14px; padding:23px; box-shadow: 0 5px 18px rgba(42,54,47,.04); }
+    .card p:last-child, .card ul:last-child { margin-bottom:0; }
+    .tag { display:inline-block; margin-bottom:12px; padding:4px 9px; border-radius:999px; background:var(--sage-soft); color:var(--sage); font:700 11px system-ui,sans-serif; text-transform:uppercase; letter-spacing:.07em; }
+    .tag.clay { background:var(--clay-soft); color:var(--clay); }
+    ul, ol { padding-left: 22px; }
+    li { margin: 5px 0; }
+    blockquote { margin: 24px 0; padding: 20px 24px; border-left: 5px solid var(--gold); background: #fff8e9; font-size: 1.22rem; color:#4c4a3d; }
+    .callout { background:var(--sage-soft); border-radius:14px; padding:24px; margin:24px 0; }
+    .callout strong { color:var(--sage); }
+    .source { font: 12px/1.55 system-ui,sans-serif; color:var(--muted); border-top:1px solid var(--line); margin-top:18px; padding-top:12px; }
+    details { border:1px solid var(--line); border-radius:12px; background:#fff; margin:12px 0; padding:0 18px; }
+    summary { cursor:pointer; padding:16px 0; font-weight:700; color:#315b4d; }
+    details[open] { padding-bottom:15px; }
+    table { width:100%; border-collapse:collapse; background:#fff; font-size:.96rem; }
+    th,td { padding:13px 14px; border:1px solid var(--line); text-align:left; vertical-align:top; }
+    th { background:var(--sage-soft); color:var(--sage); }
+    .approval { display:none; }
+    .check { display:block; margin:8px 0; font-family:system-ui,sans-serif; }
+    .check input { accent-color:var(--sage); margin-right:9px; }
+    .signature { display:grid; grid-template-columns:1fr 1fr; gap:25px; margin-top:25px; }
+    .line { border-bottom:1px solid #87938b; min-height:32px; }
+    footer { padding:28px; color:var(--muted); font:13px/1.5 system-ui,sans-serif; border-top:1px solid var(--line); }
+    .small { font-size:.92rem; color:var(--muted); }
+    @media (max-width: 780px) { .hero { grid-template-columns:1fr; padding-top:42px; gap:26px; } .grid { grid-template-columns:1fr; } main { padding-left:18px; padding-right:18px; } .hero { padding-left:18px; padding-right:18px; } table { display:block; overflow-x:auto; } .signature { grid-template-columns:1fr; } }
+    @media print {
+      .topbar, .tabs, .actions, .approval { display:none!important; }
+      header { background:#fff; }
+      .hero { padding:25px 0; }
+      main { padding:0; }
+      .panel { display:block!important; page-break-before:always; break-before:page; }
+      .panel:first-of-type { page-break-before:auto; break-before:auto; }
+      .card, .hero-note, blockquote, details, table, tr { box-shadow:none; break-inside:avoid; page-break-inside:avoid; }
+      h1, h2, h3, .eyebrow { break-after:avoid; page-break-after:avoid; }
+      h2, h3 { break-before:auto; }
+      p, li { orphans:3; widows:3; }
+      .callout { break-inside:avoid; page-break-inside:avoid; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar"><div class="topbar-inner">FORMAÇÃO ATHIS 2026 · material editorial para conversa e revisão</div></div>
+  <header>
+    <div class="hero">
+      <div>
+        <div class="eyebrow">Pacote de divulgação</div>
+        <h1>Da casa à nascente</h1>
+        <p class="lead">O conteúdo do seminário em andamento sob regência da Dra. Ludmila Correia: formação, campo, escuta comunitária e leitura territorial no Distrito Federal.</p>
+        <div class="actions"><button onclick="preparePrint()">Preparar versão para PDF</button><button class="secondary" onclick="showSources()">Ver fontes nesta página</button></div>
+      </div>
+      <aside class="hero-note"><strong>Uma proposta de parceria</strong><p>Organizar juntos a memória do seminário e dar forma ao material produzido pela equipe de campo.</p><p class="small">Com leveza, cuidado e espaço para irmos ajustando no caminho.</p></aside>
+    </div>
+  </header>
+  <main>
+    <nav class="tabs" role="tablist" aria-label="Documentos editoriais">
+      <button class="tab" role="tab" aria-selected="true" aria-controls="proposta" data-tab="proposta">1 · Proposta editorial</button>
+      <button class="tab" role="tab" aria-selected="false" aria-controls="minutas" data-tab="minutas">2 · Minutas públicas</button>
+      <button class="tab" role="tab" aria-selected="false" aria-controls="ciencia" data-tab="ciencia">3 · Contexto científico</button>
+    </nav>
+
+    <section id="proposta" class="panel active" role="tabpanel">
+      <div class="intro"><div class="eyebrow">Documento 1 · Seminário em andamento</div><h2>Uma divulgação ampla, responsável e próxima</h2><p>O pacote comunica o trabalho do seminário sob regência da Dra. Ludmila Correia sem transformar atividades em promessas. A narrativa parte da moradia e chega ao território: água, acessibilidade, risco, regularização, espaços comunitários e participação.</p></div>
+      <div class="callout"><strong>Ideia central:</strong> transformar o que o seminário está produzindo em uma memória bonita, clara e útil para a equipe, para os parceiros e para quem quiser conhecer essa experiência.</div>
+      <div class="card"><span class="tag clay">Proposta do Fabio</span><h3>Vamos organizar essa memória juntos?</h3><p><strong>Lud,</strong> quero me colocar à disposição, de forma voluntária, para organizar o material que a equipe está produzindo no campo e ajudar a transformar esse percurso em uma memória do seminário.</p><p>Posso reunir os registros, montar a linha do tempo, separar os três eixos, organizar fotos, mapas, notas e encaminhamentos e preparar versões para cartilha, artigo ou vídeo.</p><p>A ideia é trabalhar a partir do que vocês já estão construindo, devolver tudo para você e para a equipe irem ajustando comigo, até encontrarmos a melhor forma de contar essa experiência.</p><p class="source">Proposta de colaboração voluntária · Fabio Takwara</p></div>
+      <blockquote>A ATHIS não se limita à reforma da casa. Ela articula moradia, território, infraestrutura, água, acessibilidade, regularização fundiária e participação comunitária.</blockquote>
+      <div class="grid">
+        <article class="card"><span class="tag">Cartilha</span><h3>Da casa à nascente</h3><p>8 a 12 páginas, com textos curtos, esquemas simples e linguagem voltada a moradores, estudantes, profissionais, gestores e parceiros.</p><ul><li>o que é ATHIS;</li><li>três eixos da formação;</li><li>oficinas, resiliência e inclusão;</li><li>água, acessibilidade e participação.</li></ul></article>
+        <article class="card"><span class="tag clay">Artigo</span><h3>Da casa à nascente: como a ATHIS amplia seu campo</h3><p>Texto de 1.500 a 2.500 palavras para site institucional, revista, boletim profissional ou meio acadêmico de divulgação.</p><p><strong>Tese:</strong> a ATHIS atua em várias escalas: casa, entorno, infraestrutura ambiental, regularização e governança comunitária.</p></article>
+        <article class="card"><span class="tag">Vídeo</span><h3>ATHIS não tem fronteiras</h3><p>Vídeo de 2 a 3 minutos com imagens autorizadas, depoimentos institucionais e gráficos simples, direcionando o público para a cartilha e o artigo.</p></article>
+        <article class="card"><span class="tag clay">Resumo</span><h3>Uma página para parceiros</h3><p>Resumo executivo para circular entre CAU/DF, imprensa, universidades, conselhos profissionais, organizações e órgãos públicos.</p></article>
+      </div>
+      <div class="callout"><strong>Linguagem recomendada:</strong> clara, institucional e próxima da comunidade; centrada em direitos, participação e fatos verificáveis. Usar “levantamento” antes de “diagnóstico concluído” e “possibilidade de encaminhamento” antes de “solução garantida”.</div>
+      <div class="approval"><h3>Aprovação solicitada</h3><label class="check"><input type="checkbox"> Aprovar a mensagem central</label><label class="check"><input type="checkbox"> Aprovar cartilha, artigo, vídeo e resumo</label><label class="check"><input type="checkbox"> Aprovar menção ao Sol Nascente e às organizações parceiras</label><label class="check"><input type="checkbox"> Encaminhar para nova revisão institucional</label><div class="signature"><div><p class="small">Observações</p><div class="line"></div></div><div><p class="small">Data e assinatura</p><div class="line"></div></div></div></div>
+    </section>
+
+    <section id="minutas" class="panel" role="tabpanel">
+      <div class="intro"><div class="eyebrow">Documento 2 · Conteúdo do seminário</div><h2>Minutas prontas para edição</h2><p>Textos-base para divulgar o seminário em andamento. Podem ser adaptados ao canal, desde que se preserve a distinção entre atividade registrada, resultado confirmado e contexto científico.</p></div>
+      <div class="card"><span class="tag">Registro do seminário</span><h3>O que foi anunciado e trabalhado</h3><ul><li><strong>Três eixos:</strong> Melhorias Habitacionais, Ações Urbanas Comunitárias e Regularização Fundiária.</li><li><strong>Módulo 2:</strong> resiliência e inclusão em ATHIS, QGIS, manejo de águas urbanas, mapeamento de nascentes, acessibilidade e mobilidade.</li><li><strong>Oficina 3:</strong> entrevistas arquitetônicas e sociais, calhas e caimentos, entorno da quadra, participação de crianças, mapas da Fazendinha, lotes, riscos e nascentes.</li><li><strong>Próxima articulação:</strong> assessoria técnica em áreas rurais e periurbanas do Distrito Federal e entorno.</li></ul><p class="source">Base: mensagens e cards compartilhados no grupo de colaboradores da Formação ATHIS 2026 CAU/DF, com registros de 08/09, 22/09, 26/09 e 27/09/2026.</p></div>
+      <div class="card" style="margin-top:18px"><span class="tag clay">Entrega proposta por Fabio</span><h3>Da atividade à memória</h3><p>“Lud, posso cuidar da organização desse material com você? A ideia é receber os registros, dar uma forma ao conjunto, devolver para a equipe comentar e ir construindo uma memória que tenha a cara do seminário.”</p><h3>O que posso preparar</h3><ol><li>linha do tempo das atividades;</li><li>síntese dos três eixos;</li><li>fichas das oficinas;</li><li>organização de fotos, mapas e notas;</li><li>memória curta para circulação;</li><li>cartilha, artigo ou roteiro de vídeo.</li></ol><p><strong>Jeito de trabalhar:</strong> você me passa o material, eu organizo, devolvo e a gente ajusta juntos.</p></div>
+      <article class="card"><span class="tag">Resumo executivo</span><h3>Da casa à nascente: ATHIS, território e resiliência no Distrito Federal</h3><p>A Formação em Exercício de Assistência Técnica para Habitação de Interesse Social (ATHIS) 2026 articula formação profissional, trabalho de campo e participação comunitária no Distrito Federal.</p><p>Organizada em três eixos — Melhorias Habitacionais, Ações Urbanas Comunitárias e Regularização Fundiária —, a formação parte de uma compreensão ampliada da moradia. A qualidade da habitação depende também do entorno, da infraestrutura, da segurança territorial, da acessibilidade, da água e da participação das pessoas que vivem no local.</p><p>Nas atividades recentes, foram trabalhadas entrevistas arquitetônicas e sociais, problemas de calhas e caimentos, uso comunitário de espaços, análise de mapas, delimitação de lotes, avaliação de riscos e mapeamento de nascentes. O Módulo 2 acrescentou debates sobre resiliência, inclusão, QGIS, manejo de águas urbanas e acessibilidade.</p><p>O processo ainda está em desenvolvimento. Seus próximos passos dependem da sistematização dos levantamentos, da validação pelas organizações e comunidades envolvidas e da definição de encaminhamentos institucionais.</p></article>
+      <div class="grid" style="margin-top:18px"><article class="card"><span class="tag clay">Cartilha · texto-base</span><h3>O que é ATHIS?</h3><p>ATHIS é a assistência técnica voltada à população de baixa renda para promover moradia adequada e melhoria das condições de vida. Envolve arquitetura, urbanismo, engenharia, serviço social, direito e participação comunitária.</p><p>Não se trata apenas de desenhar uma casa. É necessário compreender a vida, o território, os riscos, a infraestrutura e as prioridades definidas com as pessoas que vivem no local.</p><h3>Três eixos de trabalho</h3><p><strong>Melhorias Habitacionais:</strong> entrevistas, análise das casas, salubridade, acessibilidade, calhas e caimentos.</p><p><strong>Ações Urbanas Comunitárias:</strong> cuidado com o entorno, convivência, crianças e moradores.</p><p><strong>Regularização Fundiária:</strong> mapas, lotes, riscos e instrumentos públicos.</p></article><article class="card"><span class="tag">Vídeo · roteiro</span><h3>ATHIS não tem fronteiras</h3><p><strong>Abertura:</strong> “Quando falamos em habitação, não falamos apenas das paredes de uma casa. Falamos também de água, acessibilidade, segurança, território e participação.”</p><p><strong>Desenvolvimento:</strong> “A formação reúne profissionais, estudantes, órgãos públicos e organizações comunitárias. O trabalho articula melhorias habitacionais, ações urbanas e regularização fundiária.”</p><p><strong>Resiliência:</strong> “QGIS, manejo de águas urbanas, mapeamento de nascentes, acessibilidade e mobilidade ajudam a ler o território.”</p><p><strong>Fecho:</strong> “Nosso compromisso é produzir conhecimento com responsabilidade, respeitando as comunidades e transformando a escuta em encaminhamentos possíveis.”</p></article></div>
+      <div class="approval"><h3>Decisão da Dra. Ludmila</h3><label class="check"><input type="checkbox"> Aprovar resumo</label><label class="check"><input type="checkbox"> Aprovar cartilha</label><label class="check"><input type="checkbox"> Aprovar roteiro de vídeo</label><label class="check"><input type="checkbox"> Aprovar publicação integrada</label><label class="check"><input type="checkbox"> Solicitar ajustes</label><div class="signature"><div><p class="small">Ajustes solicitados</p><div class="line"></div></div><div><p class="small">Data e assinatura</p><div class="line"></div></div></div></div>
+    </section>
+
+    <section id="ciencia" class="panel" role="tabpanel">
+      <div class="intro"><div class="eyebrow">Documento 3 · Contexto, não autoria do seminário</div><h2>Base científica e rastreabilidade</h2><p>Esta camada contextualiza o seminário com fontes científicas e acadêmicas já curadas. As fontes ajudam a interpretar os temas, mas não devem ser apresentadas como conteúdo produzido pelo seminário.</p></div>
+      <div class="grid">
+        <article class="card"><span class="tag">E1 · ATHIS</span><h3>Política e prática profissional</h3><p>Cardoso &amp; Lopes (2022) distinguem assessoria ligada a movimentos sociais e autogestão de assistência técnica como serviço público universal.</p><p class="source">Fonte: Acervo científico · política-habitacional/cardoso-2022-athis-assessoria-assistencia.md</p></article>
+        <article class="card"><span class="tag clay">E2 · Conforto</span><h3>Moradia como ambiente vivido</h3><p>Correia (2010) relaciona conforto, condições físico-ambientais, características sociais e práticas de uso em HIS na Vila Varjão/DF.</p><p class="source">Fonte: Acervo científico · percecao-social/ludmila-correia-2010-conforto-ambiental-his.md · UnB 10482/7725</p></article>
+        <article class="card"><span class="tag">E3 · Planejamento</span><h3>Percepção, técnica e mediação</h3><p>Correia (2023) aproxima planejamento democrático, morfologia, acústica, percepção, regulação e mediação de conflitos.</p><p class="source">Fonte: Acervo científico · percecao-social/ludmila-correia-2023-brasilia-sensivel-sons.md · UnB 10482/49726</p></article>
+        <article class="card"><span class="tag clay">E4 · Sol Nascente</span><h3>Aerolevantamento e SbN</h3><p>Pazos et al. (2025) estudam aerolevantamento, modelos de elevação, drenagem, vegetação, jardins de chuva, corredores verdes e participação no entorno de uma escola no Sol Nascente.</p><p class="source">Fonte: Acervo científico · percecao-social/pazos-et-al-2025-aerolevantamento-sbn-sol-nascente.md · DOI 10.56238/revgeov16n5-160</p></article>
+      </div>
+      <h3 style="margin-top:38px">Relação entre atividade e evidência</h3>
+      <table><thead><tr><th>Atividade registrada</th><th>Base</th><th>Formulação pública segura</th></tr></thead><tbody><tr><td>Entrevistas arquitetônicas e sociais</td><td>E2 · E5</td><td>Escuta e levantamento das condições de moradia.</td></tr><tr><td>Calhas e caimentos</td><td>E2 · E4</td><td>Observação de problemas construtivos e de manejo da água.</td></tr><tr><td>Mapas, lotes e riscos</td><td>E1 · E3 · E4</td><td>Leitura territorial e fundiária em processo de validação.</td></tr><tr><td>Mapeamento de nascentes</td><td>E4</td><td>Atividade de reconhecimento hídrico e ambiental.</td></tr><tr><td>Entorno da quadra e crianças</td><td>E3 · E5</td><td>Construção participativa de possibilidades para o espaço comunitário.</td></tr></tbody></table>
+      <details><summary>Combinados simples</summary><ul><li>Trabalhar sempre a partir do material da equipe.</li><li>Devolver as sínteses para você e para o grupo antes de qualquer circulação.</li><li>Cuidar para que a memória preserve as pessoas, os lugares e o espírito coletivo do seminário.</li></ul></details>
+      <div class="approval"><h3>Aprovação da base científica</h3><label class="check"><input type="checkbox"> Aprovar o uso das quatro fontes como referências públicas</label><label class="check"><input type="checkbox"> Aprovar menção à dissertação de 2010 e à tese de 2023</label><label class="check"><input type="checkbox"> Aprovar menção ao artigo de Pazos et al. (2025)</label><label class="check"><input type="checkbox"> Aprovar distinção entre evidência científica e atividade atual</label><div class="signature"><div><p class="small">Observações</p><div class="line"></div></div><div><p class="small">Data e assinatura</p><div class="line"></div></div></div></div>
+    </section>
+  </main>
+  <footer>Material editorial informal · Formação ATHIS 2026 · Preparado para conversa com a Dra. Ludmila Correia. Qualquer divulgação pública depende de revisão institucional, comunitária e de uso de imagem.</footer>
+  <script>
+    const tabs = document.querySelectorAll('[data-tab]');
+    const panels = document.querySelectorAll('.panel');
+    tabs.forEach(tab => tab.addEventListener('click', () => {
+      tabs.forEach(item => item.setAttribute('aria-selected', item === tab ? 'true' : 'false'));
+      panels.forEach(panel => panel.classList.toggle('active', panel.id === tab.dataset.tab));
+      history.replaceState(null, '', '#' + tab.dataset.tab);
+    }));
+    function preparePrint() {
+      document.body.classList.add('printing');
+      window.print();
+      window.setTimeout(() => document.body.classList.remove('printing'), 500);
+    }
+    function showSources() {
+      const tab = document.querySelector('[data-tab="ciencia"]');
+      if (tab) tab.click();
+      document.getElementById('ciencia').scrollIntoView({behavior:'smooth', block:'start'});
+    }
+    const initial = location.hash.slice(1);
+    if (initial && document.getElementById(initial)) document.querySelector(`[data-tab="${initial}"]`).click();
+  </script>
+</body>
+</html>
